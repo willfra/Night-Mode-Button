@@ -22,7 +22,9 @@ body {
     height: 100%;
     transition: all 0.5s;
 }
-
+.button {
+    cursor: pointer;
+}
 .night-mode-button {
     display: flex;
     align-items: center;
